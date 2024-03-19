@@ -14,7 +14,7 @@ class cfgVehicles
     class PersonalRadio;
     class resrp_Radio: PersonalRadio
         {
-            displayName="Personal Radio";
+            displayName="Boosted Personal Radio";
             range=10000;
         };  
 };
