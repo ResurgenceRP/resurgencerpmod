@@ -1,24 +1,26 @@
 class CfgPatches
 {
-    class ResurgenceRP_Dev
+    class ResurgenceRP_foodanddrinks
     {
         requiredAddons[] =
         {
             "DZ_Data",
+			"ResurgenceRP_Core"
         };
     };
 };
 
 class cfgVehicles
 {
-    class SodaCan_ColorBase;  
+	class SodaCan_ColorBase;  
 	class resrp_redbearbeer: SodaCan_ColorBase
 	{
+		scope=2;
         displayName="Red Bear Beer";
         descriptionShort="A can with picture of a bear... who would made such a bizzare logo for a company? - By KS for ResurgenceRP";
 		hiddenSelectionsTextures[]=
 		{
-			"foodanddrink\data\redbearbeer.paa"
+			"ResurgenceRP_foodanddrink\data\redbearbeer.paa"
 		};
 		class Nutrition
 		{
@@ -30,14 +32,14 @@ class cfgVehicles
 		};
 	}; 
 
-    class SodaCan_ColorBase;  
 	class resrp_ksblend: SodaCan_ColorBase
 	{
+		scope=2;
         displayName="Krzysztof's Special Blend";
         descriptionShort="The can looks almost homemade, the fluid inside smells like very strong vodka infused with coffee seeds. Definitely will give a jolt of energy but weak hearts might not like it. - By ks for ResurgenceRP";
 		hiddenSelectionsTextures[]=
 		{
-			"foodanddrink\data\PLACEHOLDER.paa"
+			"ResurgenceRP_foodanddrink\data\krzysztofs_hooch.paa"
 		};
 		class Nutrition
 		{
