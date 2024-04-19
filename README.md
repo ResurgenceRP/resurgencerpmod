@@ -18,7 +18,7 @@ As of the latest release, the ResurgenceRP mod includes the following feature:
 ## Credit
 - Ruffmuss on ResurgenceRP discord - For his help making this mod actually working
 - Red on ResurgenceRP discord - For providing lot of usefull textures and modding hints that helped to make this mod reality
-- The rubber ducky i have on my desk - For listening to me rambling about how i have DayZ modding.
+- The rubber ducky i have on my desk - For listening to me rambling about how i hate DayZ modding.
 
 ## Contributing
 
