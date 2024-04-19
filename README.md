@@ -1,6 +1,6 @@
 # ResurgenceRP Mod
 
-Welcome to the ResurgenceRP mod GitHub repository. This repository contains **BETA** version of ResurgenceRP mod designed for ResurgenceRP DayZ server.
+Welcome to the ResurgenceRP mod GitHub repository. This repository contains code of ResurgenceRP mod designed for ResurgenceRP DayZ server.
 
 ## Disclaimer
 
