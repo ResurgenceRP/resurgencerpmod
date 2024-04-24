@@ -20,7 +20,8 @@ class CfgPatches
 };
 
 class cfgVehicles
-{
+{	
+	class BaseRadio;
     class PersonalRadio;
     class resrp_personalradio: PersonalRadio
         {
@@ -28,13 +29,20 @@ class cfgVehicles
             descriptionShort="A clearly modified personal radio. Smells oddly like doritos, cheese, and MREs, which is probably more concerning. The antena appears just a little bit longer and thicker, most likley to accomodate stronger signal.";
             range=10000;
         };
+
+    class resrp_baseradio: BaseRadio
+        {
+            displayName="Survivalist Base Radio";
+            descriptionShort="A clearly modified WW2 style backpack radio. Smells oddly like smokes, Mold, and B Rations, If this was a ration can i'd say ''m'kay lets get this out on a tray'' But alas its a radio. By KS for ResurgenceRP";
+            range=100000000;
+        };
         
     class Flag_Base;
 	class resrp_flag_difr: Flag_Base
 	{
 		scope = 2;
         displayName="Deer Isle First Responders flag";
-        descriptionShort="Flag seemingly of few First Responders joining together after apocalypse. At this point who knows where their adventures led them to....";
+        descriptionShort="Flag seemingly of few First Responders joining together after apocalypse. At this point who knows where their adventures led them to.... -By KS for ResurgenceRP";
 		hiddenSelectionsTextures[] = 
 		{
 			"ResurgenceRP_Core\data\flag_Difr.paa"
@@ -76,7 +84,7 @@ class cfgVehicles
 	{
 		scope=2;
 		displayName="Armband of First Responders";
-        descriptionShort="Flag seemingly of few First Responders joining together after apocalypse. At this point who knows where their adventures led them to....";
+        descriptionShort="Flag seemingly of few First Responders joining together after apocalypse. At this point who knows where their adventures led them to.... - By KS for ResurgenceRP";
 		color="resrp_difr";
 		hiddenSelectionsTextures[]=
 		{
@@ -92,3 +100,4 @@ class cfgVehicles
 		};
 	};
 };
+

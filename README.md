@@ -1,6 +1,6 @@
 # ResurgenceRP Mod
 
-Welcome to the ResurgenceRP mod GitHub repository. This repository contains **BETA** version of ResurgenceRP mod designed for ResurgenceRP DayZ server.
+Welcome to the ResurgenceRP mod GitHub repository. This repository contains code of ResurgenceRP mod designed for ResurgenceRP DayZ server.
 
 ## Disclaimer
 
@@ -11,7 +11,14 @@ The code within this repository is released as-is. Please be aware that it may n
 As of the latest release, the ResurgenceRP mod includes the following feature:
 
 - **Custom Survivalist Radio**: Radio with extended range
+- **Custom Survivalist Backpack Radio**: Radio with excessive range to cover entire map
+- **Custom drinks!**: Two cans of drinks that may or may not be harmfull to drinkers health.
+- **Various custom flags and retextures**: Both meme ones and ones designed for groups and factions on server!
 
+## Credit
+- Ruffmuss on ResurgenceRP discord - For his help making this mod actually working
+- Red on ResurgenceRP discord - For providing lot of usefull textures and modding hints that helped to make this mod reality
+- The rubber ducky i have on my desk - For listening to me rambling about how i hate DayZ modding.
 
 ## Contributing
 
