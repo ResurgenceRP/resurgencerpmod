@@ -27,10 +27,13 @@ class cfgVehicles
 	class resrp_nursedress_pink: NurseDress_ColorBase
 	{
 		scope=2;
+		color="nurse_dress_pink";
         displayName="Nurse Dress";
         descriptionShort="A nurse dress in pink color. Kinda cute. - By silentnightinwinter for ResurgenceRP";
 		hiddenSelectionsTextures[]=
 		{
+			"ResurgenceRP_StuffsByRed\data\Clothes\nursedress_pink_co.paa",
+			"ResurgenceRP_StuffsByRed\data\Clothes\nursedress_pink_co.paa",
 			"ResurgenceRP_StuffsByRed\data\Clothes\nursedress_pink_co.paa"
 		};
 	};
@@ -38,10 +41,13 @@ class cfgVehicles
 	class resrp_DenimJacket_pink: DenimJacket
 	{
 		scope=2;
+		color="denim_jacket_pink";
         displayName="Denim Jacket";
         descriptionShort="Huh, didn't know those come in pink. Neat. - By silentnightinwinter for ResurgenceRP";
 		hiddenSelectionsTextures[]=
 		{
+			"ResurgenceRP_StuffsByRed\data\Clothes\denim_jacket_pink_co.paa",
+			"ResurgenceRP_StuffsByRed\data\Clothes\denim_jacket_pink_co.paa",
 			"ResurgenceRP_StuffsByRed\data\Clothes\denim_jacket_pink_co.paa"
 		};
 	};  
@@ -50,10 +56,13 @@ class cfgVehicles
 	{
 		scope=2;
         displayName="Denim....Jacket....";
+		color="denim_jacket_owo";
         descriptionShort="Why? Why not! - By silentnightinwinter for ResurgenceRP";
 		hiddenSelectionsTextures[]=
 		{
-			"ResurgenceRP_StuffsByRed\data\Clothes\nursedress_hentai_co.paa"
+			"ResurgenceRP_StuffsByRed\data\Clothes\denim_jacket_hentai_co.paa",
+			"ResurgenceRP_StuffsByRed\data\Clothes\denim_jacket_hentai_co.paa",
+			"ResurgenceRP_StuffsByRed\data\Clothes\denim_jacket_hentai_co.paa"
 		};
 	}; 
 
@@ -61,9 +70,12 @@ class cfgVehicles
 	{
 		scope=2;
         displayName="A Traders Jacket.";
+		color="tacshirt_trader";
         descriptionShort="A jacket for a trader, by trader. I think. - By silentnightinwinter for ResurgenceRP";
 		hiddenSelectionsTextures[]=
 		{
+			"ResurgenceRP_StuffsByRed\data\Clothes\pcu5jacket_Trader_co.paa",
+			"ResurgenceRP_StuffsByRed\data\Clothes\pcu5jacket_Trader_co.paa",
 			"ResurgenceRP_StuffsByRed\data\Clothes\pcu5jacket_Trader_co.paa"
 		};
 	};
@@ -72,9 +84,12 @@ class cfgVehicles
 	{
 		scope=2;
         displayName="A Traders Jacket";
+		color="rider_trader";
         descriptionShort="Biker version of the Traders Jacket, By bikers for Biker Traders. - By silentnightinwinter for ResurgenceRP";
 		hiddenSelectionsTextures[]=
 		{
+			"ResurgenceRP_StuffsByRed\data\Clothes\riders_jacket_Trader_co.paa",
+			"ResurgenceRP_StuffsByRed\data\Clothes\riders_jacket_Trader_co.paa",
 			"ResurgenceRP_StuffsByRed\data\Clothes\riders_jacket_Trader_co.paa"
 		};
 	};
@@ -83,9 +98,12 @@ class cfgVehicles
 	{
 		scope=2;
         displayName="[MISSING]";
+		color="halflife_missing";
         descriptionShort="I will finish this one later. - By silentnightinwinter for ResurgenceRP";
 		hiddenSelectionsTextures[]=
 		{
+			"ResurgenceRP_StuffsByRed\data\Clothes\tshirt_missing_texture_co.paa",
+			"ResurgenceRP_StuffsByRed\data\Clothes\tshirt_missing_texture_co.paa",
 			"ResurgenceRP_StuffsByRed\data\Clothes\tshirt_missing_texture_co.paa"
 		};
 	};
@@ -95,9 +113,12 @@ class cfgVehicles
 	{
 		scope=2;
         displayName="Jeans";
+		color="jeans_pink";
         descriptionShort="Pink Jeans! Since when do they make those? - By silentnightinwinter for ResurgenceRP";
 		hiddenSelectionsTextures[]=
 		{
+			"ResurgenceRP_StuffsByRed\data\Clothes\jeans_pink_co.paa",
+			"ResurgenceRP_StuffsByRed\data\Clothes\jeans_pink_co.paa",
 			"ResurgenceRP_StuffsByRed\data\Clothes\jeans_pink_co.paa"
 		};
 	};
@@ -105,10 +126,13 @@ class cfgVehicles
 	class resrp_medic_bag_exposed: Msp_MedicBag_Black
 	{
 		scope=2;
+		color="medic_bag_exposed";
         displayName="Medical Bag (Exposed)";
         descriptionShort="A black medical bag with suspicious sticker... Oh and if you read this it's probably too late anyway. - By silentnightinwinter for ResurgenceRP";
 		hiddenSelectionsTextures[]=
 		{
+			"ResurgenceRP_StuffsByRed\data\Clothes\medicbag_black_Exposed_co.paa",
+			"ResurgenceRP_StuffsByRed\data\Clothes\medicbag_black_Exposed_co.paa",
 			"ResurgenceRP_StuffsByRed\data\Clothes\medicbag_black_Exposed_co.paa"
 		};
 	};
@@ -117,9 +141,12 @@ class cfgVehicles
 	{
 		scope=2;
         displayName="Medical Bag";
+		color="medic_bag_pink";
         descriptionShort="I ran out of ideas for those.~ks - By silentnightinwinter for ResurgenceRP";
 		hiddenSelectionsTextures[]=
 		{
+			"ResurgenceRP_StuffsByRed\data\Clothes\medicbag_pink_co.paa",
+			"ResurgenceRP_StuffsByRed\data\Clothes\medicbag_pink_co.paa",
 			"ResurgenceRP_StuffsByRed\data\Clothes\medicbag_pink_co.paa"
 		};
 	};
@@ -128,9 +155,12 @@ class cfgVehicles
 	{
 		scope=2;
         displayName="Sneakers";
+		color="sneakers_pink";
         descriptionShort="Those look like they will get dirty fast. But also nice. - By silentnightinwinter for ResurgenceRP";
 		hiddenSelectionsTextures[]=
 		{
+			"ResurgenceRP_StuffsByRed\data\Clothes\sneakers_pink_co.paa",
+			"ResurgenceRP_StuffsByRed\data\Clothes\sneakers_pink_co.paa",
 			"ResurgenceRP_StuffsByRed\data\Clothes\sneakers_pink_co.paa"
 		};
 	};
@@ -139,9 +169,12 @@ class cfgVehicles
 	{
 		scope=2;
         displayName="Sneakers (Exposed)";
+		color="sneakers_exposed";
         descriptionShort="If you can read the sticker you are too close. - By silentnightinwinter for ResurgenceRP";
 		hiddenSelectionsTextures[]=
 		{
+			"ResurgenceRP_StuffsByRed\data\Clothes\sneakers_black_Exposed_co.paa",
+			"ResurgenceRP_StuffsByRed\data\Clothes\sneakers_black_Exposed_co.paa",
 			"ResurgenceRP_StuffsByRed\data\Clothes\sneakers_black_Exposed_co.paa"
 		};
 	};
@@ -150,9 +183,12 @@ class cfgVehicles
 	{
 		scope=2;
         displayName="Cowboy Hat";
+		color="yeeehaw_pink";
         descriptionShort="I think i just heard a cowboy weep. And i'm Mclovin' it. - By silentnightinwinter for ResurgenceRP";
 		hiddenSelectionsTextures[]=
 		{
+			"ResurgenceRP_StuffsByRed\data\Clothes\cowboyhat_pink_co.paa",
+			"ResurgenceRP_StuffsByRed\data\Clothes\cowboyhat_pink_co.paa",
 			"ResurgenceRP_StuffsByRed\data\Clothes\cowboyhat_pink_co.paa"
 		};
 	};
@@ -170,17 +206,6 @@ class cfgVehicles
 		};
 	};
 
-	class resrp_flag_bloodborn: Flag_Base
-	{
-		scope=2;
-        displayName="Bloodborn";
-        descriptionShort="There is something creepy and terryfying about this flag. But its also INCREDIBLY good looking - By silentnightinwinter for ResurgenceRP";
-		hiddenSelectionsTextures[]=
-		{
-			"ResurgenceRP_StuffsByRed\data\Flags\flag_Bloodborn_co.paa"
-		};
-	};
-
 	class resrp_flag_campfullmoon: Flag_Base
 	{
 		scope=2;
@@ -188,7 +213,7 @@ class cfgVehicles
         descriptionShort="Come sit by campfire stranger and let us tell you a story... - By silentnightinwinter for ResurgenceRP";
 		hiddenSelectionsTextures[]=
 		{
-			"ResurgenceRP_StuffsByRed\data\Flags\flag_Bloodborn_co.paa"
+			"ResurgenceRP_StuffsByRed\data\Flags\flag_Camp_Full_Moon_co.paa"
 		};
 	};
 
