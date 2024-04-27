@@ -99,5 +99,29 @@ class cfgVehicles
 			"ResurgenceRP_Core\data\flag_Difr.paa"
 		};
 	};
+
+	class resrp_flag_srg: Flag_Base
+	{
+		scope = 2;
+        displayName="Strategic Response Group flag";
+        descriptionShort="SRG flag... wait aren't those guys from radio?? -By Ruffmus for ResurgenceRP";
+		hiddenSelectionsTextures[] = 
+		{
+			"ResurgenceRP_Core\data\Ruff_SRG_Flag_co.paa"
+		};
+        color="resrp_srg";
+	};
+
+	class resrp_flag_srg_bravo: Flag_Base
+	{
+		scope = 2;
+        displayName="Strategic Response Group flag";
+        descriptionShort="SRG flag... wait aren't those guys from radio?? -By Ruffmus for ResurgenceRP";
+		hiddenSelectionsTextures[] = 
+		{
+			"ResurgenceRP_Core\data\Ruff_SRG_Flag2_co.paa"
+		};
+        color="resrp_srg_bravo";
+	};
 };
 
