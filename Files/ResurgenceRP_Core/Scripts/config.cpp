@@ -23,6 +23,7 @@ class cfgVehicles
 {	
 	class BaseRadio;
     class PersonalRadio;
+	class PoliceVest;
     class resrp_personalradio: PersonalRadio
         {
             displayName="Survivalist Radio";
@@ -122,6 +123,21 @@ class cfgVehicles
 			"ResurgenceRP_Core\data\Ruff_SRG_Flag2_co.paa"
 		};
         color="resrp_srg_bravo";
+	};
+
+	class resrp_admin_vest: PoliceVest
+	{
+		scope = 2;
+        displayName="ADMIN VEST";
+        descriptionShort="If you are not Server Staff you should not have this. This item is meant to designate ResurgenceRP Staff on Duty. If you stumbled into this during loot run please notify staff. - By KS for ResurgenceRP";
+		hiddenSelectionsTextures[] = 
+		{
+			"ResurgenceRP_Core\data\adminvest_co_pink.paa",
+			"ResurgenceRP_Core\data\adminvest_co_pink.paa",
+			"ResurgenceRP_Core\data\adminvest_co_pink.paa"
+		};
+        color="resrp_admin_vest";
+		quickBarBonus=6;
 	};
 };
 
