@@ -49,45 +49,45 @@ class cfgVehicles
 				     {
 					     class Health
 					     {
-						     damage=0.001;
+						     damage=2.0;
 					     };
 					     class Blood
 					    {
-						 	 damage=0.001;
+						 	 damage=2.0;
 					 	 };
 					 	 class Shock
 					 	 {
-							 damage=0.001;
+							 damage=2.0;
 					 	 };
 				 	 };
 				     class Projectile
 				     {
 					     class Health
 					     {
-						     damage=0.001;
+						     damage=2.0;
 					     };
 					     class Blood
 					    {
-						 	 damage=0.001;
+						 	 damage=2.0;
 					 	 };
 					 	 class Shock
 					 	 {
-							 damage=0.001;
+							 damage=2.0;
 					 	 };
 				 	 };
 				     class Infected
 				     {
 					     class Health
 					     {
-						     damage=0.001;
+						     damage=2.0;
 					     };
 					     class Blood
 					    {
-						 	 damage=0.001;
+						 	 damage=2.0;
 					 	 };
 					 	 class Shock
 					 	 {
-							 damage=0.001;
+							 damage=2.0;
 					 	 };
 				 	 };     
 			 	 };
@@ -120,45 +120,45 @@ class cfgVehicles
 				     {
 					     class Health
 					     {
-						     damage=0.001;
+						     damage=2.0;
 					     };
 					     class Blood
 					    {
-						 	 damage=0.001;
+						 	 damage=2.0;
 					 	 };
 					 	 class Shock
 					 	 {
-							 damage=0.001;
+							 damage=2.0;
 					 	 };
 				 	 };
 				     class Projectile
 				     {
 					     class Health
 					     {
-						     damage=0.001;
+						     damage=2.0;
 					     };
 					     class Blood
 					    {
-						 	 damage=0.001;
+						 	 damage=2.0;
 					 	 };
 					 	 class Shock
 					 	 {
-							 damage=0.001;
+							 damage=2.0;
 					 	 };
 				 	 };
 				     class Infected
 				     {
 					     class Health
 					     {
-						     damage=0.001;
+						     damage=2.0;
 					     };
 					     class Blood
 					    {
-						 	 damage=0.001;
+						 	 damage=2.0;
 					 	 };
 					 	 class Shock
 					 	 {
-							 damage=0.001;
+							 damage=2.0;
 					 	 };
 				 	 };     
 			 	 };
@@ -191,45 +191,45 @@ class cfgVehicles
 				     {
 					     class Health
 					     {
-						     damage=0.001;
+						     damage=2.0;
 					     };
 					     class Blood
 					    {
-						 	 damage=0.001;
+						 	 damage=2.0;
 					 	 };
 					 	 class Shock
 					 	 {
-							 damage=0.001;
+							 damage=2.0;
 					 	 };
 				 	 };
 				     class Projectile
 				     {
 					     class Health
 					     {
-						     damage=0.001;
+						     damage=2.0;
 					     };
 					     class Blood
 					    {
-						 	 damage=0.001;
+						 	 damage=2.0;
 					 	 };
 					 	 class Shock
 					 	 {
-							 damage=0.001;
+							 damage=2.0;
 					 	 };
 				 	 };
 				     class Infected
 				     {
 					     class Health
 					     {
-						     damage=0.001;
+						     damage=2.0;
 					     };
 					     class Blood
 					    {
-						 	 damage=0.001;
+						 	 damage=2.0;
 					 	 };
 					 	 class Shock
 					 	 {
-							 damage=0.001;
+							 damage=2.0;
 					 	 };
 				 	 };     
 			 	 };
@@ -262,45 +262,45 @@ class cfgVehicles
 				     {
 					     class Health
 					     {
-						     damage=0.001;
+						     damage=2.0;
 					     };
 					     class Blood
 					    {
-						 	 damage=0.001;
+						 	 damage=2.0;
 					 	 };
 					 	 class Shock
 					 	 {
-							 damage=0.001;
+							 damage=2.0;
 					 	 };
 				 	 };
 				     class Projectile
 				     {
 					     class Health
 					     {
-						     damage=0.001;
+						     damage=2.0;
 					     };
 					     class Blood
 					    {
-						 	 damage=0.001;
+						 	 damage=2.0;
 					 	 };
 					 	 class Shock
 					 	 {
-							 damage=0.001;
+							 damage=2.0;
 					 	 };
 				 	 };
 				     class Infected
 				     {
 					     class Health
 					     {
-						     damage=0.001;
+						     damage=2.0;
 					     };
 					     class Blood
 					    {
-						 	 damage=0.001;
+						 	 damage=2.0;
 					 	 };
 					 	 class Shock
 					 	 {
-							 damage=0.001;
+							 damage=2.0;
 					 	 };
 				 	 };     
 			 	 };
@@ -310,7 +310,7 @@ class cfgVehicles
 
     class resrp_bfeet: FeetCover_Improvised
         {
-            displayName="Torso Covering";
+            displayName="Feet Covering";
             descriptionShort="By ks for ResurgenceRP";
 			heatIsolation=1.0;
 			hiddenSelectionsTextures[]=
@@ -333,45 +333,45 @@ class cfgVehicles
 				     {
 					     class Health
 					     {
-						     damage=0.001;
+						     damage=2.0;
 					     };
 					     class Blood
 					    {
-						 	 damage=0.001;
+						 	 damage=2.0;
 					 	 };
 					 	 class Shock
 					 	 {
-							 damage=0.001;
+							 damage=2.0;
 					 	 };
 				 	 };
 				     class Projectile
 				     {
 					     class Health
 					     {
-						     damage=0.001;
+						     damage=2.0;
 					     };
 					     class Blood
 					    {
-						 	 damage=0.001;
+						 	 damage=2.0;
 					 	 };
 					 	 class Shock
 					 	 {
-							 damage=0.001;
+							 damage=2.0;
 					 	 };
 				 	 };
 				     class Infected
 				     {
 					     class Health
 					     {
-						     damage=0.001;
+						     damage=2.0;
 					     };
 					     class Blood
 					    {
-						 	 damage=0.001;
+						 	 damage=2.0;
 					 	 };
 					 	 class Shock
 					 	 {
-							 damage=0.001;
+							 damage=2.0;
 					 	 };
 				 	 };     
 			 	 };
@@ -381,7 +381,7 @@ class cfgVehicles
 
     class resrp_bface: FaceCover_Improvised
         {
-            displayName="Torso Covering";
+            displayName="Face Covering";
             descriptionShort="By ks for ResurgenceRP";
 			heatIsolation=1.0;
 			hiddenSelectionsTextures[]=
@@ -404,45 +404,45 @@ class cfgVehicles
 				     {
 					     class Health
 					     {
-						     damage=0.001;
+						     damage=2.0;
 					     };
 					     class Blood
 					    {
-						 	 damage=0.001;
+						 	 damage=2.0;
 					 	 };
 					 	 class Shock
 					 	 {
-							 damage=0.001;
+							 damage=2.0;
 					 	 };
 				 	 };
 				     class Projectile
 				     {
 					     class Health
 					     {
-						     damage=0.001;
+						     damage=2.0;
 					     };
 					     class Blood
 					    {
-						 	 damage=0.001;
+						 	 damage=2.0;
 					 	 };
 					 	 class Shock
 					 	 {
-							 damage=0.001;
+							 damage=2.0;
 					 	 };
 				 	 };
 				     class Infected
 				     {
 					     class Health
 					     {
-						     damage=0.001;
+						     damage=2.0;
 					     };
 					     class Blood
 					    {
-						 	 damage=0.001;
+						 	 damage=2.0;
 					 	 };
 					 	 class Shock
 					 	 {
-							 damage=0.001;
+							 damage=2.0;
 					 	 };
 				 	 };     
 			 	 };

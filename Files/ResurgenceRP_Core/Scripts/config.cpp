@@ -128,7 +128,7 @@ class cfgVehicles
 	class resrp_admin_vest: PoliceVest
 	{
 		scope = 2;
-		heatIsolation=3.0;
+		heatIsolation=4.0;
         displayName="ADMIN VEST";
         descriptionShort="If you are not Server Staff you should not have this. This item is meant to designate ResurgenceRP Staff on Duty. If you stumbled into this during loot run please notify staff. - By KS for ResurgenceRP";
 		hiddenSelectionsTextures[] = 

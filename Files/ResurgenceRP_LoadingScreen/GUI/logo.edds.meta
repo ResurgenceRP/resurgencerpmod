@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{06D89FA9DE071021}ResurgenceRP_Dev/ResurgenceRP_LoadingScreen/GUI/logo.edds"
+ Author "desktop-qse7d9r"
+ ChangeDate -952274765
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "logo.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}
