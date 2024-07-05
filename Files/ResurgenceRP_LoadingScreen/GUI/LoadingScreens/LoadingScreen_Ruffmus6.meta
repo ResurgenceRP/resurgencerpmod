@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{6097B2D6F7811C19}ResurgenceRP_Dev/IMAGES_TEMP/PROCESSED/GET_IN_THE_HOLE.edds"
+ Author "desktop-qse7d9r"
+ ChangeDate -1576865606
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "GET_IN_THE_HOLE.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

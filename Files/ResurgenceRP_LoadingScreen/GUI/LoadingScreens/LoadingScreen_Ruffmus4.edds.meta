@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{89E74F7A3929EE86}ResurgenceRP_Dev/new_LS/LoadingScreen_Ruffmus4.edds"
+ Author "desktop-qse7d9r"
+ ChangeDate 640315578
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "LoadingScreen_Ruffmus4.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

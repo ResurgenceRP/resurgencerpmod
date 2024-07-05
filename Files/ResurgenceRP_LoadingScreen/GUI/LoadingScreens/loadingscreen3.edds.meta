@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{A4ECA60ABC6A0DBB}ResurgenceRP_Dev/ResurgenceRP_LoadingScreen/GUI/2TMP/PAA/loadingscreen3.edds"
+ Author "desktop-qse7d9r"
+ ChangeDate 1501900979
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "loadingscreen3.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

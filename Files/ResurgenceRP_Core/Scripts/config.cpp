@@ -7,7 +7,8 @@ class CfgPatches
 			"resrp_Flag_Difr",
 			"resrp_Flag_lamplight",
 			"resrp_armband_lamplight",
-			"resrp_redbearbeer"
+			"resrp_redbearbeer",
+			"resrp_ruffbag"
 		};
         requiredAddons[] =
         {
@@ -24,6 +25,7 @@ class cfgVehicles
 	class BaseRadio;
     class PersonalRadio;
 	class PoliceVest;
+	class CanvasBag_ColorBase;
     class resrp_personalradio: PersonalRadio
         {
             displayName="Survivalist Radio";
@@ -140,5 +142,20 @@ class cfgVehicles
         color="resrp_admin_vest";
 		quickBarBonus=6;
 	};
+
+	class resrp_ruffbag: CanvasBag_ColorBase
+	{
+		scope = 2
+		displayName="Ruffmus Canvas Bag";
+        descriptionShort="A canvas bag with some funny doodles - By KS and Ruffmus for ResurgenceRP";
+		itemsCargoSize[]={8,8};
+		itemSize[]={6,6};
+		hiddenSelectionsTextures[]=
+		{
+			"ResurgenceRP_Core\data\newruffmussbag_co.paa",
+			"ResurgenceRP_Core\data\newruffmussbag_co.paa",
+			"ResurgenceRP_Core\data\newruffmussbag_co.paa"
+		};
+	}
 };
 
