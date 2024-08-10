@@ -23,7 +23,7 @@ class cfgVehicles
         descriptionShort="Reclaim the world - By Ruffmus for ResurgenceRP";
 		weight = 10;
 		itemSize[] = {3,2};
-        itemsCargoSize[] = {6,8};
+        itemsCargoSize[] = {5,4};
         quickBarBonus = 6;
         ragQuantity = 6;
         varWetMax = 0;

@@ -22,6 +22,7 @@ class CfgPatches
 
 class cfgVehicles
 {	
+	class Stone;
 	class BaseRadio;
     class PersonalRadio;
 	class PoliceVest;
@@ -145,7 +146,7 @@ class cfgVehicles
 
 	class resrp_ruffbag: CanvasBag_ColorBase
 	{
-		scope = 2
+		scope = 2;
 		displayName="Ruffmus Canvas Bag";
         descriptionShort="A canvas bag with some funny doodles - By KS and Ruffmus for ResurgenceRP";
 		itemsCargoSize[]={8,8};
@@ -156,6 +157,20 @@ class cfgVehicles
 			"ResurgenceRP_Core\data\newruffmussbag_co.paa",
 			"ResurgenceRP_Core\data\newruffmussbag_co.paa"
 		};
-	}
+	};
+	
+	class resrp_shinystone: Stone
+	{
+		scope=2;
+		displayName="A shiny stone";
+        descriptionShort="This is a nice shiny stone... wait, does it have googly eyes??? - By KS for ResurgenceRP";
+		canBeSplit=0;
+		weight=500;
+		HiddenSelections[] ={"zbytek","camoGround"};
+ 		hiddenSelectionsTextures[] ={
+			"ResurgenceRP_Core\data\stone_googly_eyes.paa",
+			"ResurgenceRP_Core\data\stone_googly_eyes.paa"
+        };
+	};
 };
 

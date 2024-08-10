@@ -85,6 +85,18 @@ class cfgVehicles
 			soundSet = "ResurgenceRP_Casettes_soundset_whispersofthecosmos";
 		};
 	};
+	
+	class resrp_casettes_ForTheCompany: YK_Cassette_Base
+	{
+		scope = 2;
+		displayName = "For The Company";
+		descriptionShort = "We hope you will be a great asset.... To the Company - By ks for ResurgenceRP";
+		hiddenSelectionsTextures[] = {"ResurgenceRP_Casettes\data\thecompany.paa"};
+		class CfgCassette
+		{
+			soundSet = "ResurgenceRP_Casettes_soundset_forthecompany";
+		};
+	};
 
 };
 
@@ -121,6 +133,11 @@ class CfgSoundSets
 	{
 		soundShaders[] = {"ResurgenceRP_Casettes_soundshader_shadowoftheend"};
 	};
+
+	class ResurgenceRP_Casettes_soundset_forthecompany
+	{
+		soundShaders[] = {"ResurgenceRP_Casettes_soundshader_forthecompany"};
+	};
 };
 class CfgSoundShaders
 {
@@ -153,5 +170,10 @@ class CfgSoundShaders
 	class ResurgenceRP_Casettes_soundshader_starlightdemise: YK_Cassette_SoundShader_Base
 	{
 		samples[] = {{"ResurgenceRP_Casettes\data\sounds\starlightdemise.ogg",1}};
+	};
+	
+	class ResurgenceRP_Casettes_soundshader_forthecompany: YK_Cassette_SoundShader_Base
+	{
+		samples[] = {{"ResurgenceRP_Casettes\data\sounds\FOR_THE_COMPANY.ogg",1}};
 	};
 };
