@@ -14,6 +14,8 @@ As of the latest release, the ResurgenceRP mod includes the following feature:
 - **Custom Survivalist Backpack Radio**: Radio with excessive range to cover entire map
 - **Custom drinks!**: Two cans of drinks that may or may not be harmfull to drinkers health.
 - **Various custom flags and retextures**: Both meme ones and ones designed for groups and factions on server!
+- **Custom loading screens!**: Contains code for custom loading screens made from screenshots taken by our players
+- **BetterWheatstone repack**: ONLY IN PUBLISHED MOD ON WORKSHOP: Contains repack of renowned BetterWhetstone mod by Spurgle's, original code avaible on his Github repostitory under [This link](https://github.com/Spurgurgle/misc-mods), all credit to original author
 
 ## Credit
 - Ruffmuss on ResurgenceRP discord - For his help making this mod actually working

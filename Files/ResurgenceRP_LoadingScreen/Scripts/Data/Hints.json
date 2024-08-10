@@ -7,12 +7,12 @@
 	{
 		"m_Headline": "Did you know?",
 		"m_ImagePath": "",
-		"m_Description": "After horde attack some of infected seem to developed new resistances."
+		"m_Description": "No one truly knows what happens on bussy farms...."
 	},
 	{
 		"m_Headline": "Did you know?",
 		"m_ImagePath": "",
-		"m_Description": "The asteroid that changed the world impacted the planet after all attempts to stop it failed in 2020"
+		"m_Description": "What happens on Bussy Farms stays on Bussy Farms"
 	},
 	{
 		"m_Headline": "Did you know?",
@@ -22,12 +22,12 @@
 	{
 		"m_Headline": "Did you know?",
 		"m_ImagePath": "",
-		"m_Description": "Maine EAS system appears to still be working.... but who is manning it?"
+		"m_Description": "We trust you will be a great asset to The Company."
 	},
 	{
 		"m_Headline": "Did you know?",
 		"m_ImagePath": "",
-		"m_Description": "The Powerplant work must continue."
+		"m_Description": "The work must continue."
 	},
 	{
 		"m_Headline": "Did you know?",
@@ -37,12 +37,51 @@
 	{
 		"m_Headline": "Did you know?",
 		"m_ImagePath": "",
-		"m_Description": "STAG stands for Strategic Technologies and Arms Group, Inc."
+		"m_Description": "What's that green fog...?"
 	},
 	{
 		"m_Headline": "Did you know?",
 		"m_ImagePath": "",
-		"m_Description": "STAG and Doomsday Clock Scientists worked together trying to stop the impact. The groups haven't been seen together since the Shelter in Place order"
+		"m_Description": "Doomsday Clock Scientists worked trying to stop the impact. The groups haven't been seen together since the Shelter in Place order"
 	},
-
+	{
+        "m_Headline": "Did you know?",
+        "m_ImagePath": "",
+        "m_Description": "In 2018, astronomers discovered an asteroid with a 90-92% chance of impacting Earth, setting off a global crisis."
+    },
+    {
+        "m_Headline": "Did you know?",
+        "m_ImagePath": "",
+        "m_Description": "Despite efforts to keep the asteroid a secret, a leak in 2018 caused mass panic as the world learned of its potential impact."
+    },
+    {
+        "m_Headline": "Did you know?",
+        "m_ImagePath": "",
+        "m_Description": "The Doomsday Clock team, formed by major powers, worked tirelessly from 2018 to 2021 to find a solution to prevent the asteroid impact."
+    },
+    {
+        "m_Headline": "Did you know?",
+        "m_ImagePath": "",
+        "m_Description": "By 2020, the only feasible plan to save Earth was to send a manned shuttle with nuclear warheads to intercept the asteroid."
+    },
+    {
+        "m_Headline": "Did you know?",
+        "m_ImagePath": "",
+        "m_Description": "In 2021, a heroic mission launched a shuttle carrying nuclear warheads to destroy the asteroid as it passed by the Moon."
+    },
+    {
+        "m_Headline": "Did you know?",
+        "m_ImagePath": "",
+        "m_Description": "The asteroid was shattered into smaller pieces in 2021, reducing the impact but still causing widespread devastation."
+    },
+    {
+        "m_Headline": "Did you know?",
+        "m_ImagePath": "",
+        "m_Description": "After the asteroid's impact, humanity spent six weeks in shelters before emerging into a drastically changed world."
+    },
+    {
+        "m_Headline": "Did you know?",
+        "m_ImagePath": "",
+        "m_Description": "Three months after the exiting the shelters, survivors faced a world in chaos, with societal breakdown and rabid monsters."
+    }
 ]

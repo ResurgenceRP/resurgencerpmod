@@ -46,5 +46,8 @@
     },
     {
         "ImagePath": "ResurgenceRP_LoadingScreen/GUI/LoadingScreens/LoadingScreen_Ruffmus6.edds"
+    },
+    {
+        "ImagePath": "ResurgenceRP_LoadingScreen/GUI/LoadingScreens/LoadingScreen_Ruffmus7.edds"
     }
 ]

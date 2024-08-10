@@ -7,7 +7,8 @@ class CfgPatches
 			"resrp_Flag_Difr",
 			"resrp_Flag_lamplight",
 			"resrp_armband_lamplight",
-			"resrp_redbearbeer"
+			"resrp_redbearbeer",
+			"resrp_ruffbag"
 		};
         requiredAddons[] =
         {
@@ -21,9 +22,11 @@ class CfgPatches
 
 class cfgVehicles
 {	
+	class Stone;
 	class BaseRadio;
     class PersonalRadio;
 	class PoliceVest;
+	class CanvasBag_ColorBase;
     class resrp_personalradio: PersonalRadio
         {
             displayName="Survivalist Radio";
@@ -139,6 +142,35 @@ class cfgVehicles
 		};
         color="resrp_admin_vest";
 		quickBarBonus=6;
+	};
+
+	class resrp_ruffbag: CanvasBag_ColorBase
+	{
+		scope = 2;
+		displayName="Ruffmus Canvas Bag";
+        descriptionShort="A canvas bag with some funny doodles - By KS and Ruffmus for ResurgenceRP";
+		itemsCargoSize[]={8,8};
+		itemSize[]={6,6};
+		hiddenSelectionsTextures[]=
+		{
+			"ResurgenceRP_Core\data\newruffmussbag_co.paa",
+			"ResurgenceRP_Core\data\newruffmussbag_co.paa",
+			"ResurgenceRP_Core\data\newruffmussbag_co.paa"
+		};
+	};
+	
+	class resrp_shinystone: Stone
+	{
+		scope=2;
+		displayName="A shiny stone";
+        descriptionShort="This is a nice shiny stone... wait, does it have googly eyes??? - By KS for ResurgenceRP";
+		canBeSplit=0;
+		weight=500;
+		HiddenSelections[] ={"zbytek","camoGround"};
+ 		hiddenSelectionsTextures[] ={
+			"ResurgenceRP_Core\data\stone_googly_eyes.paa",
+			"ResurgenceRP_Core\data\stone_googly_eyes.paa"
+        };
 	};
 };
 
